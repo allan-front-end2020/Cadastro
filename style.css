@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: roboto;
+    color: rgb(56, 56, 196);
+}
+
+strong {
+    color: yellow;
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto 0 auto;
+}
+
+.card {
+    border: solid 4px black;
+    border-radius: 23px;
+    box-shadow: 23px 23px 23px lightgray;
+    margin: 0 auto 0 auto;
+    background-color: rgb(202, 183, 183);
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    border: solid rgb(24, 21, 21) 3px;
+    margin: 15px;
+    border-radius: 10px;
+    font-family: roboto;
+    font-size: 15px;
+    background-color: rgb(221, 205, 236);
+}
+
+h2 {
+    text-align: center;
+    font-family: roboto;
+}
+
+placeholder {
+    text-align: center;
+    font-family: roboto;
+}
+
+.btn {
+    width: 175px;
+    height: 34px;
+    background-color: blueviolet;
+    color: black;
+    font-family: roboto;
+    font-size: 15px;
+    border-radius: 10px;
+    border: solid rgb(24, 21, 21) 3px;
+    margin-top: 15px;
+    margin-left: 12px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(128, 66, 134);
+}
